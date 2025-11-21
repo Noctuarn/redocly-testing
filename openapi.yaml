@@ -16,3 +16,4 @@ paths:
                 properties:
                   message:
                     type: string
+          new field here for test
