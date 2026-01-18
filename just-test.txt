@@ -2,3 +2,5 @@ a + b = 10
 b - c = 8
 
 ???
+
+I think we need additional information
