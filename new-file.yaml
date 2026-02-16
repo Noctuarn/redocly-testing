@@ -17,4 +17,4 @@ isCrossRepo: false
 externalName: "John Doe"
 externalEmail: "john@example.com"
 userId: "usr_01hh1t9sa6gwfv5naz04gr7ehm"
-providerType: "GITHUB_CLOUD"
+providerType: "GITHUB_CLOUD" // need to be changed
