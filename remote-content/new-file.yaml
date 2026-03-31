@@ -1,0 +1,20 @@
+# webhook-event.yaml
+id: "gwh_01hh1t9sa6gwfv5naz04gr7ehm"
+object: "gitWebhookPush"
+uri: "https://github.com/example/repo/commit/abc123"
+type: "PUSH"
+eventType: "git.webhook.sent"
+branch: "main"
+before: "0000000000000000000000000000000000000000"
+after: "abc123def4567890abcdef1234567890abcdef12"
+sourceDetails:
+  repositoryId: "repo_01abc123"
+  namespaceId: "org_01xyz456"
+  branchName: "main"
+receivedAt: "2026-01-27T15:00:00Z"
+forcePushed: false
+isCrossRepo: false
+externalName: "John Doe"
+externalEmail: "john@example.com"
+userId: "usr_01hh1t9sa6gwfv5naz04gr7ehm"
+providerType: "GITHUB_CLOUD"
